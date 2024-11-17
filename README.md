@@ -1,4 +1,5 @@
 # **Power BI - Business Insights 360**
+![Finance Dashboard](https://github.com/techytapas23/Business-Insights-360/blob/main/Images/Dashboard-Screenshots/Home-Dashboard.png)
 
 ## **Overview**
 This repository showcases a project focused on transforming a company's decision-making capabilities using [**Power BI**](https://app.powerbi.com/view?r=eyJrIjoiZDRhNDk4ZTgtZDkxYS00Y2U3LThlZDgtYWFmMThjMjgyODAwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
@@ -83,13 +84,13 @@ These dashboards empower stakeholders by providing:
 
 ---
 
-## **Folder Structure**
-├── Images
-│   └── Dashboard-Screenshots
-│       ├── Finance-Dashboard.png
-│       ├── Sales-Dashboard.png
-│       ├── Supply-Chain-Dashboard.png
-│       ├── Marketing-Dashboard.png
-│       └── Executive-Dashboard.png
-├── README.md
+# Repository Structure
 
+- **Images**
+  - **Dashboard-Screenshots**
+    - Finance-Dashboard.png
+    - Sales-Dashboard.png
+    - Supply-Chain-Dashboard.png
+    - Marketing-Dashboard.png
+    - Executive-Dashboard.png
+- **README.md**
