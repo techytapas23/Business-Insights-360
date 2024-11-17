@@ -1,7 +1,8 @@
 # **Power BI - Business Insights 360**
 
 ## **Overview**
-This repository showcases a project focused on transforming a company's decision-making capabilities using **Power BI**. The company faced challenges with data transparency and relied heavily on Excel for analytics, limiting its ability to make accurate, data-driven decisions. With the introduction of interactive dashboards, the company can now track performance across multiple departments and regions effectively.
+This repository showcases a project focused on transforming a company's decision-making capabilities using [**Power BI**](https://app.powerbi.com/view?r=eyJrIjoiZDRhNDk4ZTgtZDkxYS00Y2U3LThlZDgtYWFmMThjMjgyODAwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+. The company faced challenges with data transparency and relied heavily on Excel for analytics, limiting its ability to make accurate, data-driven decisions. With the introduction of interactive dashboards, the company can now track performance across multiple departments and regions effectively.
 
 ---
 
@@ -83,3 +84,12 @@ These dashboards empower stakeholders by providing:
 ---
 
 ## **Folder Structure**
+├── Images
+│   └── Dashboard-Screenshots
+│       ├── Finance-Dashboard.png
+│       ├── Sales-Dashboard.png
+│       ├── Supply-Chain-Dashboard.png
+│       ├── Marketing-Dashboard.png
+│       └── Executive-Dashboard.png
+├── README.md
+
